@@ -14,7 +14,15 @@
   "author": "giraldo <felipe-giraldo@hotmail.es>",
   "license": "MIT",
   "bin": {
-    "giraldo-random-message": "./bin/global.js"
+    "giraldo-random-message": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipeGiralSof/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/felipeGiralSof/random-messages/issues"
+  },
+  "homepage": "https://github.com/felipeGiralSof/random-messages#readme"
 }
